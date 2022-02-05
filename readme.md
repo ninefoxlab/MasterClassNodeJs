@@ -1,6 +1,8 @@
 # Master Class NodeJS
 
-> Sampel code dari semua bagian dan bab
+> NodeJS merupakan sebuah bahasa pemrograman yang sudah komplit, maka dari itu pada kursus kali ini saya ingin berbagi tentang cara mengoperasikan nodejs tanpa menggunakan library dari luar.
+
+> Semoga Bermanfaat :D 
 
 ## Starter
 
