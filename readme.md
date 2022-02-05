@@ -19,6 +19,7 @@ Pastikan Anda telah menginstall salah satu IDE berikut:
 
 
 Setup environment dari nodejs: https://nodejs.org/en/
+
 Dokumentasi nodejs: https://nodejs.org/docs/latest-v14.x/api/
 
 Catatan: disarankan untuk menggunakan nvm(node version manager) agar lebih mudah dalam pengaturan versi nodejs nantinya. (https://github.com/nvm-sh/nvm)
